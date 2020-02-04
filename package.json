@@ -1,0 +1,16 @@
+{
+  "name": "codenation-challenge",
+  "version": "1.0.0",
+  "description": "A cryptography challenge",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Luccas Martins",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "sha1": "^1.1.1"
+  }
+}
